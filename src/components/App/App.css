@@ -1,0 +1,12 @@
+html,body{
+    background-color: white;
+}
+body{
+    background-color: white;
+    overflow-x: hidden;
+    color: #6C63FF;
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
